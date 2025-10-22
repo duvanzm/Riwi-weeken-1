@@ -1,0 +1,13 @@
+nombres = input("Ingresa Tus Nombres")
+apellido = input("Ingresa Tus apellidos")
+edad = input("Ingresa Tu Edad")
+email = input("Ingresa Tu Correo")
+tel = input("Ingresa Tu Numero Telefonico")
+direccion = input("Ingresa Tu Direccion")
+
+print ("Estos son tu datos: ")
+print ("Tu nombre es: " + nombres + " " + apellido)
+print ("Tienes " + edad + " años de edad")
+print ("Tu correo es: " + email)
+print ("Tu numero telefonico es: " + tel)
+print ("Tu direccion es: " + direccion)
